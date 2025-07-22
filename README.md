@@ -160,6 +160,6 @@ WHERE rank = 1;
 
 ## 👩‍💻 About Me
 
-**Author:** Garima 
+**Author:** Garima.
 **Focus:** Building strong SQL foundations for Data Analytics roles  
 💬 *Feel free to connect if you want feedback or want to collaborate.*
